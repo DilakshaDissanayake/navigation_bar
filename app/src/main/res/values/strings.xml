@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="title_home">Home</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_account">Account</string>
+    <string name="title_search">Search</string>
+    <string name="app_name">bootomNavBar</string>
+</resources>
